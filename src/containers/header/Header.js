@@ -11,7 +11,7 @@ const Header = () => {
             <p>A set of virtual spaces where you can create and explore with other people who aren’t in the same physical space as you. You’ll be able to hang out with friends, work, play, learn, shop, create, and more.</p>
             <div className="gpt3__header-content__input">
               <input type="email" placeholder="Your Email Address" />
-              <button type="button" onClick={() => window.location = 'mailto:jyotirmoyroy649@gmail.com'} >Get Started</button>
+              <button type="button" onClick={() => window.location = 'lisprocoin@gmail.com'} >Get Started</button>
             </div>
             <div className="gpt3__header-content__people">
               <img src={people} />
