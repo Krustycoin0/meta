@@ -1,5 +1,5 @@
 import React from 'react';
-import gpt3Logo from '../../assets/logos.png';
+import gpt3Logo from '../../assets/logo.png';
 import './Footer.css';
 
 const Footer = () => {
@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
 
         <div className="gpt3__footer-btn">
-          <p onClick={() => window.location = 'mailto:jyotirmoyroy649@gmail.com'}>Request Early Access</p>
+          <p onClick={() => window.location = 'mailto:lisprocoin@gmail.com'}>Request Early Access</p>
         </div>
 
         <div className="gpt3__footer-links">
@@ -33,9 +33,9 @@ const Footer = () => {
           </div>
           <div className="gpt3__footer-links_div">
             <h4>Get in touch</h4>
-            <p>Jyotirmoy Roy </p>
-            <p>+91 9051XXXX</p>
-            <p>jyotirmoyroy649@gmail.com</p>
+            <p>Lisprocooin </p>
+            <p>+91 90xxXXXX</p>
+            <p>lisprocoin@gmail.com</p>
           </div>
         </div>
 
